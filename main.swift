@@ -1,3 +1,3 @@
 
-var str="heloo"
+var str="hello"
 print(str)
