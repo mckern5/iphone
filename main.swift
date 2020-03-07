@@ -4,5 +4,5 @@ print(str)
 
 for number in 1...4{
 
-  print("Hello:")
+  print("Hello:\(number)")
 }
