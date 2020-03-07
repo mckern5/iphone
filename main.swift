@@ -1,4 +1,4 @@
-
+import Foundation
 var str="hello"
 print(str)
 
